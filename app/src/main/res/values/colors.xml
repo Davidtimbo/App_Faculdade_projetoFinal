@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- res/values/colors.xml -->
+<resources>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="gray">#D3D3D3</color>
+    <color name="red">#FF0000</color> <!-- Cor vermelha para exclusão -->
+    <color name="primary">#6200EE</color> <!-- Exemplo de cor primária -->
+    <color name="primary_dark">#3700B3</color> <!-- Exemplo de cor primária escura -->
+    <color name="hintColor">#9E9E9E</color> <!-- Cor do hint que deve contrastar com o fundo -->
+
+</resources>
